@@ -2,4 +2,5 @@
 
 About me
 
-Languages and Tools
+###Languages and Tools
+![MySQL](https://img.shields.io/badge/-MySQL-8A2BE2)
