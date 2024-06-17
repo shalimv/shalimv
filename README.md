@@ -1,6 +1,12 @@
 [![Header](https://github.com/shalimv/shalimv/blob/main/assets/Header.png)](https://github.com/shalimv/shalimv/blob/main/assets/Header.png)
 
-## I am an Engineer QA
+# I`m an Engineer QA
+
+## About me
+
+## My CV
+
+## Certificates
 
 ### Tools
 
