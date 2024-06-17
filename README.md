@@ -23,4 +23,5 @@
 __Russian__\
 __English__
 
-![Telegram](https://www.flaticon.com/ru/free-icon/telegram_906377?term=%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC&page=1&position=15&origin=search&related_id=906377)
+##
+[![Telegram]()](https://web.telegram.org/k/#@DEADPYNK)
