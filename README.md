@@ -8,9 +8,9 @@
 
 ## Certificates
 
-[![SQL Certificate](https://stepik.org/cert/2500987)](https://stepik.org/cert/2500987)
+[![**SQL Certificate**](https://stepik.org/cert/2500987)](https://stepik.org/cert/2500987)
 
-### Tools
+## Tools
 
 ![MySQL](https://img.shields.io/badge/-MySQL-00FFFF?style=for-the-badge&logo=MySQL)
 ![GIT](https://img.shields.io/badge/-GIT-7FFFD4?style=for-the-badge&logo=GIT)
