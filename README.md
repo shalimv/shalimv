@@ -1,9 +1,14 @@
 [![Header](https://github.com/shalimv/shalimv/blob/main/assets/Header.png)](https://github.com/shalimv/shalimv/blob/main/assets/Header.png)
 
-# I`m an Engineer QA
+# **I`m a QA Engineer**
 
 ## About me
 
+* I am developing in the direction of *manual QA Engineer*.
+* **Functional** and **regression** testing.
+* Understanding the differences between *Agile* and *Waterfall* methodologies.
+* Using various testing tools, such as Postman, DevTools Chrome, Charles Proxy.
+* Developing test plans, test cases and bug reports.
 
 ## My CV
 
@@ -24,4 +29,4 @@ __Russian__\
 __English__
 
 ##
-[![Telegram](https://github.com/shalimv/shalimv/blob/main/assets/free-icon-telegram-2111646.png)](https://web.telegram.org/k/#@DEADPYNK)
+[![Telegram](https://github.com/shalimv/shalimv/blob/main/assets/free-icon-telegram-2111646.png)](@DEADPYNK)
