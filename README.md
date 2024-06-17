@@ -8,7 +8,7 @@
 
 ## Certificates
 
-[![**SQL Certificate**](https://stepik.org/cert/2500987)](https://stepik.org/cert/2500987)
+[**SQL Certificate**](https://stepik.org/cert/2500987 "My Certificate")
 
 ## Tools
 
