@@ -24,4 +24,4 @@ __Russian__\
 __English__
 
 ##
-[![Telegram]()](https://web.telegram.org/k/#@DEADPYNK)
+[![Telegram](https://github.com/shalimv/shalimv/blob/main/assets/free-icon-telegram-2111646.png)](https://web.telegram.org/k/#@DEADPYNK)
