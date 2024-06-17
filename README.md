@@ -14,7 +14,13 @@
 
 ## Certificates
 
-[**SQL Certificate**](https://stepik.org/cert/2500987 "My Certificate")
+* [**SQL Certificate**](https://stepik.org/cert/2500987 "My Certificate")
+
+## Documentation
+
+* [Test Cases](https://github.com/shalimv/docs.git "Test Cases")
+* [Postman Collections](https://github.com/shalimv/docs.git "Collections")
+* [SQL Queries](https://github.com/shalimv/docs.git "SQL")
 
 ## Tools
 
@@ -23,6 +29,12 @@
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-CD5C5C?style=for-the-badge&logo=POSTMAN)
 ![DevTools](https://img.shields.io/badge/-DevTools-F0E68C?style=for-the-badge&logo=DevTools)
 ![Charles Proxy](https://img.shields.io/badge/-Charles_Proxy-DC143C?style=for-the-badge&logo=DevTools)
+
+## Test Management System
+
+![QASE](https://img.shields.io/badge/-QASE-CD5C5C?style=for-the-badge&logo=QASE)
+![JIRA](https://img.shields.io/badge/-Jira-F0E68C?style=for-the-badge&logo=JIRA)
+![TestIT](https://img.shields.io/badge/-Test_IT-DC143C?style=for-the-badge&logo=TestIT)
 
 ## Languages
 
