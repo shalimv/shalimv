@@ -6,9 +6,9 @@
 
 ## My CV
 
-![SQL Certificate](https://stepik.org/cert/2500987)
-
 ## Certificates
+
+[![SQL Certificate](https://stepik.org/cert/2500987)](https://stepik.org/cert/2500987)
 
 ### Tools
 
