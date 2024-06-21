@@ -19,6 +19,7 @@
 ## Documentation
 
 * [Test Cases](https://github.com/shalimv/docs.git "Test Cases")
+* [Bug Reports](https://github.com/shalimv/docs.git "Bug Reports")
 * [Postman Collections](https://github.com/shalimv/docs/tree/main/API%20Collection "Collections")
 * [SQL Queries](https://github.com/shalimv/docs/tree/main/SQL%20Queries "SQL")
 
