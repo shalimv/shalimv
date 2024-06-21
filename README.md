@@ -25,10 +25,10 @@
 ## Tools
 
 ![MySQL](https://img.shields.io/badge/-MySQL-00FFFF?style=for-the-badge&logo=MySQL)
-![GIT](https://img.shields.io/badge/-GIT-7FFFD4?style=for-the-badge&logo=GIT)
+![GIT](https://img.shields.io/badge/-GIT-7FFFD4?style=for-the-badge&logo=GITHUB)
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-CD5C5C?style=for-the-badge&logo=POSTMAN)
-![DevTools](https://img.shields.io/badge/-DevTools-F0E68C?style=for-the-badge&logo=DevTools)
-![Charles Proxy](https://img.shields.io/badge/-Charles_Proxy-DC143C?style=for-the-badge&logo=DevTools)
+![DevTools](https://img.shields.io/badge/-Chrome_DevTools-FFA07A?style=for-the-badge&logo=Chrome_DevTools)
+![Charles Proxy](https://img.shields.io/badge/-Charles_Proxy-FFB6C1?style=for-the-badge&logo=Charles&Proxy)
 
 ## Test Management System
 
