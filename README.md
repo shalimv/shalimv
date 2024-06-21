@@ -22,7 +22,7 @@
 * [Postman Collections](https://github.com/shalimv/docs/tree/main/API%20Collection "Collections")
 * [SQL Queries](https://github.com/shalimv/docs.git "SQL")
 
-## Tools
+## Tools & Technologies
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=MySQL)
 ![GIT](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=GITHUB)
