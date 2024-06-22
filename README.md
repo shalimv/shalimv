@@ -16,7 +16,7 @@
 
 * [**SQL Certificate**](https://stepik.org/cert/2500987 "My Certificate")
 
-## Documentation
+## Portfolio
 
 * [Test Cases](https://github.com/shalimv/docs.git "Test Cases")
 * [Bug Reports](https://github.com/shalimv/docs/tree/main/Bug%20Reports "Bug Reports")
