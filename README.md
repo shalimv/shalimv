@@ -23,6 +23,7 @@
 * [Postman Collections](https://github.com/shalimv/docs/tree/main/API%20Collection "Collections")
 * [SQL Queries](https://github.com/shalimv/docs/tree/main/SQL%20Queries "SQL")
 
+
 ## Tools & Technologies
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=MySQL)
@@ -30,6 +31,7 @@
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-000000?style=for-the-badge&logo=POSTMAN)
 ![DevTools](https://img.shields.io/badge/-Chrome_DevTools-000000?style=for-the-badge&logo=googlechrome)
 ![Charles Proxy](https://img.shields.io/badge/-Charles_Proxy-000000?style=for-the-badge&logo=Charles&Proxy)
+![TestRail](https://img.shields.io/badge/-TestRail-000000?style=for-the-badge&logo=TestRail)
 
 ## Test Management System
 
