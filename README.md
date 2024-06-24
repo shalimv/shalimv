@@ -33,7 +33,6 @@
 ![DevTools](https://img.shields.io/badge/-Chrome_DevTools-000000?style=for-the-badge&logo=googlechrome)
 ![Charles Proxy](https://img.shields.io/badge/-Charles_Proxy-000000?style=for-the-badge&logo=Charles&Proxy)
 ![GIT](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=GIT)
-![logo](https://github.com/shalimv/shalimv/blob/main/assets/Bash1.png)
 ![BASH](https://img.shields.io/badge/-BASH-000000?style=for-the-badge&logo=bash)
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=VSCode)
 
