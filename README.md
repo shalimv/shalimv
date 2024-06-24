@@ -5,12 +5,13 @@
 ## About me
 
 * I am developing in the direction of *manual QA Engineer*.
-* **Functional** and **regression** testing.
 * Understanding the differences between *Agile* and *Waterfall* methodologies.
 * Using various testing tools, such as Postman, DevTools Chrome, Charles Proxy.
 * Developing test plans, test cases and bug reports.
 
 ## My CV
+
+* [**Link to CV**](https://github.com/shalimv/docs.git "Резюме")
 
 ## Certificates
 
@@ -27,17 +28,25 @@
 ## Tools & Technologies
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=MySQL)
-![GIT](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=GITHUB)
+![GITHUB](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=GITHUB)
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-000000?style=for-the-badge&logo=POSTMAN)
 ![DevTools](https://img.shields.io/badge/-Chrome_DevTools-000000?style=for-the-badge&logo=googlechrome)
 ![Charles Proxy](https://img.shields.io/badge/-Charles_Proxy-000000?style=for-the-badge&logo=Charles&Proxy)
-![TestRail](https://img.shields.io/badge/-TestRail-000000?style=for-the-badge&logo=TestRail)
+![GIT](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=GIT)
+![BASH](https://img.shields.io/badge/-BASH-000000?style=for-the-badge&logo=bash)
+![VSCode](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=VSCode)
+
+
+
 
 ## Test Management System
 
 ![QASE](https://img.shields.io/badge/-QASE-000000?style=for-the-badge&logo=QASE)
 ![JIRA](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=JIRA)
 ![TestIT](https://img.shields.io/badge/-Test_IT-000000?style=for-the-badge&logo=TestIT)
+![TestRail](https://img.shields.io/badge/-TestRail-000000?style=for-the-badge&logo=TestRail)
+![YouTrack](https://img.shields.io/badge/-YouTrack-000000?style=for-the-badge&logo=YouTrack)
+
 
 ## Languages
 
