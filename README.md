@@ -16,7 +16,8 @@
 
 ## Certificates
 
-* [**SQL Certificate**](https://stepik.org/cert/2500987 "My Certificate")
+* [**SQL Certificate**](https://stepik.org/cert/2500987 "SQL")
+* [**Postman for API testing**](https://stepik.org/cert/2508856 "Postman")
 
 ## Portfolio
 
