@@ -7,11 +7,12 @@
 * I am developing in the direction of *manual QA Engineer*.
 * Understanding the differences between *Agile* and *Waterfall* methodologies.
 * Using various testing tools, such as Postman, DevTools Chrome, Charles Proxy.
-* Developing test plans, test cases and bug reports.
+* Developing checklists, test cases and bug reports.
 
 ## My CV
 
-* [**Link to CV**](https://github.com/shalimv/docs.git "Резюме")
+* ![](https://img.shields.io/badge/--000000?logo=readdotcv)[**Link to CV**](https://github.com/shalimv/docs.git "Резюме")
+
 
 ## Certificates
 
@@ -19,10 +20,14 @@
 
 ## Portfolio
 
-* [Test Cases](https://github.com/shalimv/docs.git "Test Cases")
-* [Bug Reports](https://github.com/shalimv/docs/tree/main/Bug%20Reports "Bug Reports")
-* [Postman Collections](https://github.com/shalimv/docs/tree/main/API%20Collection "Collections")
-* [SQL Queries](https://github.com/shalimv/docs/tree/main/SQL%20Queries "SQL")
+* ![](https://img.shields.io/badge/--000000?logo=readthedocs)
+[Test Cases](https://github.com/shalimv/docs.git "Test Cases")
+* ![](https://img.shields.io/badge/--000000?logo=readthedocs)
+[Bug Reports](https://github.com/shalimv/docs/tree/main/Bug%20Reports "Bug Reports")
+* ![](https://img.shields.io/badge/--000000?logo=readthedocs)
+[Postman Collections](https://github.com/shalimv/docs/tree/main/API%20Collection "Collections")
+* ![](https://img.shields.io/badge/--000000?logo=readthedocs)
+[SQL Queries](https://github.com/shalimv/docs/tree/main/SQL%20Queries "SQL")
 
 
 ## Tools & Technologies
@@ -33,8 +38,8 @@
 ![DevTools](https://img.shields.io/badge/-Chrome_DevTools-000000?style=for-the-badge&logo=googlechrome)
 ![Charles Proxy](https://img.shields.io/badge/-Charles_Proxy-000000?style=for-the-badge&logo=Charles&Proxy)
 ![GIT](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=GIT)
-![BASH](https://img.shields.io/badge/-BASH-000000?style=for-the-badge&logo=bash)
-![VSCode](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=VSCode)
+![BASH](https://img.shields.io/badge/-BASH-000000?style=for-the-badge&logo=gnubash)
+![VSCode](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=visualstudiocode)
 
 
 
