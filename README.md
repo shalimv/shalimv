@@ -16,6 +16,7 @@
 
 ## Certificates
 
+* [**QA Engineer**](https://stepik.org/cert/2508856 "QA")
 * [**SQL Certificate**](https://stepik.org/cert/2500987 "SQL")
 * [**Postman for API testing**](https://stepik.org/cert/2508856 "Postman")
 
