@@ -5,8 +5,8 @@
 ## About me
 
 * I am developing in the direction of *manual QA Engineer*.
-* My previous *work experience* is primarily related to quality
-* It is an honor for me to work in a large company and *contribute to its development*
+* My previous *work experience* is primarily related to quality.
+* It is an honor for me to work in a large company and *contribute to its development*.
 
 ## My CV
 
