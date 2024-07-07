@@ -11,7 +11,7 @@
 
 ## My CV
 
-* ![](https://img.shields.io/badge/--000000?logo=readdotcv)[**Link to CV**](https://github.com/shalimv/docs/blob/main/Shalimov_CV.pdf "CV")
+* ![](https://img.shields.io/badge/--000000?logo=readdotcv)[**Link to CV**](https://drive.google.com/file/d/1BUpnvp8Bs-iF_XedHk5sSX5sx-xKvRaB/view?usp=sharing "CV")
 
 
 ## Certificates
