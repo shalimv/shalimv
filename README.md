@@ -1,13 +1,12 @@
 [![Header](https://github.com/shalimv/shalimv/blob/main/assets/Header.png)](https://github.com/shalimv/shalimv/blob/main/assets/Header.png)
 
-# **I`m a QA Engineer**
+# **Hello, my name is Leonid. I`m a QA Engineer.**
 
 ## About me
 
 * I am developing in the direction of *manual QA Engineer*.
-* Understanding the differences between *Agile* and *Waterfall* methodologies.
-* Using various testing tools, such as Postman, DevTools Chrome, Charles Proxy.
-* Developing checklists, test cases and bug reports.
+* My previous *work experience* is primarily related to quality
+* It is an honor for me to work in a large company and *contribute to its development*
 
 ## My CV
 
