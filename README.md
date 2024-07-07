@@ -22,7 +22,7 @@
 ## Portfolio
 
 * ![](https://img.shields.io/badge/--000000?logo=readthedocs)
-[Test Cases](https://github.com/shalimv/docs.git "Test Cases")
+[Test Cases](https://github.com/shalimv/docs/tree/main/Test%20Cases "Test Cases")
 * ![](https://img.shields.io/badge/--000000?logo=readthedocs)
 [Bug Reports](https://github.com/shalimv/docs/tree/main/Bug%20Reports "Bug Reports")
 * ![](https://img.shields.io/badge/--000000?logo=readthedocs)
@@ -41,17 +41,25 @@
 ![GIT](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=GIT)
 ![BASH](https://img.shields.io/badge/-BASH-000000?style=for-the-badge&logo=gnubash)
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=visualstudiocode)
+![SoapUI](https://img.shields.io/badge/-SoapUI-000000?style=for-the-badge&logo=soap_ui)
+![Swagger](https://img.shields.io/badge/-Swagger-000000?style=for-the-badge&logo=swagger)
+![XAMPP](https://img.shields.io/badge/-XAMPP-000000?style=for-the-badge&logo=xampp)
 
 
 
 
-## Test Management System
+## Test Management System & BTS
 
 ![QASE](https://img.shields.io/badge/-QASE-000000?style=for-the-badge&logo=QASE)
 ![JIRA](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=JIRA)
 ![TestIT](https://img.shields.io/badge/-Test_IT-000000?style=for-the-badge&logo=TestIT)
 ![TestRail](https://img.shields.io/badge/-TestRail-000000?style=for-the-badge&logo=TestRail)
 ![YouTrack](https://img.shields.io/badge/-YouTrack-000000?style=for-the-badge&logo=YouTrack)
+
+## Addition Skills
+
+* HTML
+* CSS
 
 
 ## Languages
